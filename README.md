@@ -1,4 +1,4 @@
-# Decentralized learning with data exchanging
+# Decentralized learning with data exchanging[![DOI](https://zenodo.org/badge/446033567.svg)](https://zenodo.org/badge/latestdoi/446033567)
 
 This is the project code for course COMP7203P.01.2021FA in USTC.
 
@@ -11,7 +11,8 @@ We examine the privacy leakage as KL divergence between the distribution of tran
 Note: The scripts will be slow without the implementation of parallel computing. 
 
 ## Requirements
-python>=3.8
+python>=3.8，
+
 pytorch>=1.10
 
 ## Run
@@ -26,8 +27,12 @@ For example:
 
 The result are recorded in result.xlsx.
 
+## Result
 
-## Ackonwledgements
+See it in [report.pdf](report.pdf)
+
+
+## Acknowledgements
 Acknowledgements give to Min Guo and Zhiwei Yao.
 
 ## References
@@ -37,3 +42,4 @@ Shaoxiong Ji. (2018, March 30). A PyTorch Implementation of Federated Learning. 
 
 ## Cite As
 
+Muhang Lan. (2022). Decentralized learning with data exchanging (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5831447
