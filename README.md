@@ -42,4 +42,4 @@ Shaoxiong Ji. (2018, March 30). A PyTorch Implementation of Federated Learning. 
 
 ## Cite As
 
-Muhang Lan. (2022). Decentralized learning with data exchanging (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5831447
+Muhang Lan. (2022). mh-lan/privacy_performance_tradeoff: Added report (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5835914
